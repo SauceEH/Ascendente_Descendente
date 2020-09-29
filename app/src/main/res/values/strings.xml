@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ascendente Descendente</string>
+    <string name="numero">Numero</string>
+    <string name="ascendente">Ascendente</string>
+    <string name="descendente">Descendente</string>
+    <string name="mezclado">Mezclado</string>
+    <string name="boton">Calcular</string>
+</resources>
